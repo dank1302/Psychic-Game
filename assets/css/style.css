@@ -1,0 +1,30 @@
+#gameScreen{
+    position: relative;
+    width:800px;
+    height:500px;
+    margin-left:100px;
+    margin-top:50px;
+    background-color: lightseagreen;
+    color:darkmagenta;
+    
+}
+#head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#guess{
+    font-weight: bold;
+}
+.stats{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cleo{
+    position: relative;
+    float:right;
+    width:400px;
+    height:500px;
+    margin-top:150px;
+    margin-right:100px;
+}
+body{
+    background-color: darkmagenta;
+}
